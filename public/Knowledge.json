@@ -1,0 +1,44 @@
+[
+    {
+      "id": 101,
+      "cover": "https://i.ibb.co.com/JnWSbtD/1.jpg",
+      "title": "Beyond the Horizon: A Sci-Fi Odyssey",
+      "author_img": "https://i.ibb.co.com/ypk9sDj/boy1.png",
+      "author": "Avery Quinn",
+      "reading_time": 8 ,
+      "hashtags": ["#SciFi", "#Adventure", "#Futuristic"],
+      "post_date":"mar 14 (4 days ago)" 
+    },
+    {
+      "id": 102,
+      "cover": "https://i.ibb.co.com/6wnFxJ9/2.png",
+      "title": "The Art of Silence",
+      "author_img": "https://i.ibb.co.com/sw7Zh3b/boy2.jpg",
+      "author": "Jordan Blake",
+      "reading_time": 5 ,
+      "hashtags": ["#Philosophy", "#Mindfulness", "#LifeLessons"],
+      "post_date":"jun 14 (12 days ago)" 
+    },
+    {
+      "id": 103,
+      "cover": "https://i.ibb.co.com/tKg6T3X/3.png",
+      "title": "Whispers of the Forgotten Woods",
+      "author_img": "https://i.ibb.co.com/PQxNg0d/girl2.jpg",
+      "author": "Riley Stone",
+      "reading_time": 10 ,
+      "hashtags": ["#Fantasy", "#Nature", "#Mystery"],
+      "post_date":"jan 14 (5 days ago)" 
+    },
+    {
+      "id": 104,
+      "cover": "https://i.ibb.co.com/h8Zrdg2/4.jpg",
+      "title": "Digital Dreams: A Guide to the Metaverse",
+      "author_img": "https://i.ibb.co.com/6N3y73d/girl1.jpg",
+      "author": "Taylor Moore",
+      "reading_time": 7 ,
+      "hashtags": ["#Technology", "#VirtualReality", "#Future"],
+      "post_date":"mar 17 (8 days ago)" 
+    }
+
+  ]
+  
